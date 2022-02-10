@@ -1,8 +1,14 @@
 # Bem vindo, me chamo Eduardo Lemes Ribeiro.
-<div>
-  <a href="https://github.com/Leksuz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leksuz&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-</div>
+  <div>
+    <a href="https://app.daily.dev/Leksuz"><img src="https://api.daily.dev/devcards/ce426818b3554208926f9f08534394e1.png?r=jhq" width="300" alt="Eduardo Lemes's Dev Card"/></a>
+  </div>
+  
+  ##
+  
+  <div>
+    <a href="https://github.com/Leksuz">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Leksuz&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/></a>
+  </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="Lek-JAVA" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Lek-SPRING" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
