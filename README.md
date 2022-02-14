@@ -1,9 +1,10 @@
 # Bem vindo, me chamo Eduardo Lemes Ribeiro.
   <div>
-    <a href="https://app.daily.dev/Leksuz"><img src="https://api.daily.dev/devcards/ce426818b3554208926f9f08534394e1.png?r=jhq" width="300" alt="Eduardo Lemes's Dev Card"/></a>
-    💻 | Estagiário de Desenvolvimento de Software
-    🤖 | Campeão mundial de robótica.
-    📖 | Estudante de Análise e Desenvolvimento de Sistemas 2/5
+    <lu>
+      <li>💻 | Estagiário de Desenvolvimento de Software</li>
+      <li>🤖 | Campeão mundial de robótica.</li>
+      <li>📖 | Estudante de Análise e Desenvolvimento de Sistemas 2/5</li>
+    </lu>
 </div>
   
   ##
