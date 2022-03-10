@@ -2,7 +2,8 @@
   <div>
     <lu>
       <li>💻 | Estagiário de Desenvolvimento de Software</li>
-      <li>🤖 | Campeão mundial de robótica.</li>
+      <li>🤖 | 1x Campeão mundial de robótica.</li>
+      <li>🥇 | 1x Campeão brasileiro de robótica.</li>
       <li>📖 | Estudante de Análise e Desenvolvimento de Sistemas 2/5</li>
     </lu>
 </div>
