@@ -2,8 +2,6 @@
   <div>
     <lu>
       <li>💻 | Desenvolvedor Java Junior</li>
-      <li>🤖 | 1x Campeão mundial de robótica.</li>
-      <li>🥇 | 1x Campeão brasileiro de robótica.</li>
       <li>📖 | Estudante de Análise e Desenvolvimento de Sistemas 3/5</li>
     </lu>
 </div>
